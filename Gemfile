@@ -40,3 +40,5 @@ gem 'minitest', group: :test
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'polymer-rails'
+
